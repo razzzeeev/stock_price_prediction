@@ -14,6 +14,7 @@ Our goal is to create a hybrid model for stock price/performance prediction usin
 We used the following data sources for our analysis and prediction:
 - Historical stock prices for SENSEX (S&P BSE SENSEX) from [Yahoo Finance](https://finance.yahoo.com/). This data provides us with information on past stock prices and performance.
 - Textual news data from [Times of India](https://bit.ly/36fFPI6). This data provides us with information on news events that may impact stock prices.
+- Data can found here [data](https://drive.google.com/drive/folders/1_LX8eJG9Zq_1p0VxA5eVFoAweSEJm7Ks?usp=share_link)
 
 ## References
 - [Deep learning for stock prediction using numerical and textual information](https://www.sciencedirect.com/science/article/pii/S2405452620302476) by Ryo Akita, Akira Yoshihara, Takashi Matsubara, Kuniaki Uehara. This paper provided the inspiration for our approach and methodology.
